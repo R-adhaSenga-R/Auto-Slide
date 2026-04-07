@@ -1,0 +1,10 @@
+#requirements.txt
+streamlit
+python-pptx
+openai
+python-dotenv
+docx2txt
+PyPDF2
+pandas
+audio-recorder-streamlit
+SpeechRecognition
